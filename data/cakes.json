@@ -1,0 +1,233 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "category": "cakes",
+      "name": "Fruit Cake",
+      "price": 800,
+      "rating": 4.4,
+      "weight": 1,
+      "image": "/images/Fruit Cake.jpg",
+      "description": "Delicious fresh cream fruit cake."
+    },
+    {
+      "id": 2,
+      "category": "cheese cakes",
+      "name": "Classic Cheesecake",
+      "price": 1250,
+      "rating": 4.2,
+      "weight": 1,
+      "image": "/images/Classic Cheesecake.jpg",
+      "description": "A creamy classic cheesecake with berries."
+    },
+    {
+      "id": 3,
+      "category": "cakes",
+      "name": "Monster Theme Cake",
+      "price": 550,
+      "rating": 4.3,
+      "weight": 0.5,
+      "image": "/images/Monster Theme Cake.jpg",
+      "description": "Kids' favourite monster theme cake."
+    },
+    {
+      "id": 4,
+      "category": "cup cakes",
+      "name": "Pumpkin Spice Cupcakes-6",
+      "price": 360,
+      "rating": 4.5,
+      "weight": 0.6,
+      "image": "/images/Pumpkin Spice Cupcakes.jpg",
+      "description": "Pumpkin flavored cupcakes with frosting."
+    },
+    {
+      "id": 5,
+      "category": "cookies",
+      "name": "Cookies Cream Cake",
+      "price": 1000,
+      "rating": 4.7,
+      "weight": 1,
+      "image": "/images/Cookies Cream Cake.jpg",
+      "description": "Cookies & cream layered cake."
+    },
+    {
+      "id": 6,
+      "category": "cup cakes",
+      "name": "Easter Cupcakes-6",
+      "price": 300,
+      "rating": 4.1,
+      "weight": 0.6,
+      "image": "/images/Easter Cupcakes.jpg",
+      "description": "Cute easter-themed cupcakes."
+    },
+    {
+      "id": 7,
+      "category": "chocolates",
+      "name": "Chocolate Summer Berries",
+      "price": 1100,
+      "rating": 4.3,
+      "weight": 0.5,
+      "image": "/images/Chocolate Summer Berries.jpg",
+      "description": "Chocolate cake topped with mixed berries."
+    },
+    {
+      "id": 8,
+      "category": "muffins",
+      "name": "Muffin Devil Horns-3",
+      "price": 375,
+      "rating": 4.9,
+      "weight": 0.45,
+      "image": "/images/Muffin Devil Horns.jpg",
+      "description": "Halloween special devil horn muffins."
+    },
+    {
+      "id": 9,
+      "category": "cup cakes",
+      "name": "Berries Summer Cupcakes-6",
+      "price": 420,
+      "rating": 4.2,
+      "weight": 0.6,
+      "image": "/images/Berries Summer Cupcakes.jpg",
+      "description": "Vanilla cupcakes topped with fresh berries."
+    },
+    {
+      "id": 10,
+      "category": "brownies",
+      "name": "Brownies Different Flavor-6",
+      "price": 600,
+      "rating": 4.9,
+      "weight": 0.9,
+      "image": "/images/Brownies Different Flavor.jpg",
+      "description": "Assorted chocolate brownies."
+    },
+    {
+      "id": 11,
+      "category": "cheese cakes",
+      "name": "Cherry Jelly Cheesecake",
+      "price": 1300,
+      "rating": 5,
+      "weight": 1,
+      "image": "/images/Cherry Jelly Cheesecake.jpg",
+      "description": "No-bake cherry cheesecake."
+    },
+    {
+      "id": 12,
+      "category": "cakes",
+      "name": "Chocolate Blueberries Cake",
+      "price": 2000,
+      "rating": 4.8,
+      "weight": 1.5,
+      "image": "/images/Chocolate Blueberries Cake.jpg",
+      "description": "Rich chocolate cake with blueberries."
+    },
+    {
+      "id": 13,
+      "category": "cup cakes",
+      "name": "Chocolate Cupcake-4",
+      "price": 400,
+      "rating": 4.5,
+      "weight": 0.4,
+      "image": "/images/Chocolate Cupcake.jpg",
+      "description": "Moist chocolate cupcakes."
+    },
+    {
+      "id": 14,
+      "category": "brownies",
+      "name": "Isometric chocolate brownies-3",
+      "price": 330,
+      "rating": 4.7,
+      "weight": 0.3,
+      "image": "/images/Isometric chocolate brownies.jpg",
+      "description": "Chocolate fudge brownie."
+    },
+    {
+      "id": 15,
+      "category": "muffins",
+      "name": "Muffin Ghost-2",
+      "price": 250,
+      "rating": 4.9,
+      "weight": 0.3,
+      "image": "/images/Muffin Ghost.jpg",
+      "description": "Ghost themed cupcakes."
+    },
+    {
+      "id": 16,
+      "category": "cookies",
+      "name": "Butter Cookies",
+      "price": 450,
+      "rating": 5,
+      "weight": 0.5,
+      "image": "/images/Butter Cookies.jpg",
+      "description": "Soft melt-in-mouth butter cookies."
+    },
+    {
+      "id": 17,
+      "category": "chocolates",
+      "name": "Chocolate Bonbons-500gm",
+      "price": 800,
+      "rating": 4.9,
+      "weight": 0.5,
+      "image": "/images/Chocolate Bonbons.jpg",
+      "description": "Premium assorted bonbons."
+    },
+    {
+      "id": 18,
+      "category": "cookies",
+      "name": "Chocolate Cookies-500gm",
+      "price": 600,
+      "rating": 5,
+      "weight": 0.5,
+      "image": "/images/Chocolate Cookies.jpg",
+      "description": "Crispy chocolate chip cookies."
+    },
+    {
+      "id": 19,
+      "category": "cakes",
+      "name": "Milk Cake",
+      "price": 700,
+      "rating": 4.6,
+      "weight": 1,
+      "image": "/images/milk cake.jpg",
+      "description": "Soft and creamy milk cake."
+    },
+    {
+      "id": 20,
+      "category": "cakes",
+      "name": "Dora Cake",
+      "price": 350,
+      "rating": 4.5,
+      "weight": 0.5,
+      "image": "/images/Dora cake.jpg",
+      "description": "Soft dorayaki-style cake filled with chocolate cream."
+    },
+    {
+      "id": 21,
+      "category": "pancakes",
+      "name": "Pancake Stack",
+      "price": 450,
+      "rating": 4.7,
+      "weight": 0.8,
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+      "description": "Fluffy pancake stack."
+    },
+    {
+      "category": "cakes",
+      "name": "Rose Vanilla Layer",
+      "price": 1600,
+      "rating": 4.8,
+      "weight": 1.2,
+      "image": "/images/rose vanilla layer.jpg",
+      "description": "Elegant vanilla cake with rose frosting and fresh berries."
+    },
+    {
+      "id": 23,
+      "category": "cookies",
+      "name": "Almond Macarons",
+      "price": 550,
+      "rating": 4.6,
+      "weight": 0.3,
+      "image": "https://images.pexels.com/photos/827516/pexels-photo-827516.jpeg",
+      "description": "Almond macarons with ganache."
+    }
+  ]
+}
